@@ -1,0 +1,97 @@
+{
+  "customers": [],
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "USB-C Fast Charger 25W",
+      "category": "Charging",
+      "price": 65000,
+      "stock": 18,
+      "sold": 0,
+      "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "description": "Fast charging for iPhone, Samsung, and Android devices with intelligent thermal safety control.",
+      "featured": true
+    },
+    {
+      "id": "prod-2",
+      "name": "Magnetic Ring Holder",
+      "category": "Phone Case",
+      "price": 35000,
+      "stock": 30,
+      "sold": 0,
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+      "description": "Comfortable grip ring with a strong magnetic hold for everyday use and safe handling.",
+      "featured": true
+    },
+    {
+      "id": "prod-3",
+      "name": "Crystal Clear Phone Case",
+      "category": "Phone Case",
+      "price": 98000,
+      "stock": 12,
+      "sold": 0,
+      "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=900&q=80",
+      "description": "Slim clear case with drop protection, raised edges, and a premium transparent finish.",
+      "featured": true
+    },
+    {
+      "id": "prod-4",
+      "name": "Wireless Earbuds Pro",
+      "category": "Audio",
+      "price": 149000,
+      "stock": 5,
+      "sold": 0,
+      "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+      "description": "Deep bass sound, active noise reduction, and long battery life for commuting and music lovers.",
+      "featured": true
+    },
+    {
+      "id": "prod-5",
+      "name": "20,000mAh Power Bank",
+      "category": "Charging",
+      "price": 189000,
+      "stock": 10,
+      "sold": 0,
+      "image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?auto=format&fit=crop&w=900&q=80",
+      "description": "Portable power backup with dual USB outputs, pass-through charging, and compact design.",
+      "featured": true
+    },
+    {
+      "id": "prod-6",
+      "name": "Type-C to HDMI Adapter",
+      "category": "Accessories",
+      "price": 56000,
+      "stock": 24,
+      "sold": 0,
+      "image": "https://images.unsplash.com/photo-1598327105620-6f8d7c1d7c6c?auto=format&fit=crop&w=900&q=80",
+      "description": "Connect your phone or laptop to any HDMI display for meetings, movies, or screen mirroring.",
+      "featured": false
+    },
+    {
+      "id": "prod-7",
+      "name": "Camera Lens Protector",
+      "category": "Protection",
+      "price": 42000,
+      "stock": 31,
+      "sold": 0,
+      "image": "https://images.unsplash.com/photo-1518770660439-463ac1c7f8d8?auto=format&fit=crop&w=900&q=80",
+      "description": "Crystal glass protector that keeps lenses scratch-free and preserves picture quality.",
+      "featured": false
+    },
+    {
+      "id": "prod-8",
+      "name": "Bluetooth Game Controller",
+      "category": "Gaming",
+      "price": 140000,
+      "stock": 6,
+      "sold": 0,
+      "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=900&q=80",
+      "description": "Ergonomic wireless controller designed for mobile gaming and easy cross-device pairing.",
+      "featured": false
+    }
+  ],
+  "orders": [],
+  "visits": [],
+  "feedback": [],
+  "messages": []
+}
